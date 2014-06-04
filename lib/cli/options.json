@@ -46,5 +46,10 @@
     "long": "date",
     "desc": "Time to use as the report date (seconds, > 9999999999 assumed to be ms)",
     "type": "String"
+  },
+  "R":{
+    "long": "revision",
+    "desc": "Revision to use in the report",
+    "type": "String"
   }
 }
